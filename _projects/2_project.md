@@ -20,3 +20,9 @@ Our goal was to detect COVID-19 symptoms automatically from lung ultrasound vide
 <div class="caption">
     Overview of our approach
 </div>
+
+Ressources:
+* [Code and Pocovid Dataset](https://github.com/jannisborn/covid19_ultrasound)
+* [COVID-BLUES Dataset](https://github.com/NinaWie/COVID-BLUES)
+* [arXiv paper](https://arxiv.org/abs/2004.12084)
+* [Journal paper](https://www.mdpi.com/2076-3417/11/2/672)
