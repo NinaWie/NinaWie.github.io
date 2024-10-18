@@ -1,8 +1,8 @@
 ---
 layout: page
 title: PennyMe
-description: An iOS app for collecting pennies
-img: assets/img/12.jpg
+description: An iOS app for finding the most sustainable transport option
+img: assets/img/projects/greentestic.jpg
 importance: 1
 category: work
 related_publications: true
