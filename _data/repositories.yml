@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - NinaWie
+  - mie-lab
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lis-epfl/apg_trajectory_tracking
+  - jannisborn/covid19_ultrasound 
+  - mie-lab/geospatialOT
+  - mie-lab/trackintel 
+  - jannisborn/PennyMe 
+  - NinaWie/lion

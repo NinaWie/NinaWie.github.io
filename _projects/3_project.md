@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PennyMe
+title: Greentastic
 description: An iOS app for finding the most sustainable transport option
-img: assets/img/projects/greentestic.jpg
+img: assets/img/projects/greentastic.jpg
 importance: 1
 category: work
 related_publications: true
