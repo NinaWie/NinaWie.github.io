@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /hobbies/
+title: hobbies
+description: I love to do outdoor sports and to travel. Here are some pointers to my favourite trips
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+2021: Three weeks through Norway by interrail, car, ship and bus, from Zurich through Norway to the North Cape and back through Finnland. 
+2019: We did a [3-weeks roadtrip](https://jannisborn.github.io/us-roadtrip/) in the US, including 9 national parks
