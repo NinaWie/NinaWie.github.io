@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hobbies/
-title: Hobbies
+title: hobbies
 description: I love to do outdoor sports and to travel. Here are some pointers to my favourite trips
 nav: true
 nav_order: 6
@@ -89,62 +89,68 @@ nav_order: 6
   }
 </style>
 
-## 2024 Adventures
+### Trips with Strava tracks
 
 <div class="tiles-container">
   <div class="tile">
-    <h2>One Week Biking Through France</h2>
-    <p>Followed by one week hiking through the Pyrenees.</p>
+    <h2>One Week Biking in France</h2>
+    <p>From Geneva to Andorra (2024)</p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12421702771" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
   <div class="tile">
+    <h2>One Week Hiking in the Pyrenees</h2>
+    <p>From Andorra to Perpignan (2024)</p>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12500855830" data-style="standard"></div>
+    <script src="https://strava-embeds.com/embed.js"></script>
+  </div>
+  <!-- <div class="tile">
     <h2>One Week Biking Through France</h2>
     <p>Followed by one week hiking through the Pyrenees.</p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12426409737" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
-  <div class="tile">
+  <!-- <div class="tile">
     <h2>One Week Biking Through France</h2>
     <p>Followed by one week hiking through the Pyrenees.</p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12453745686" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
-  </div>
-</div>
+  </div> --> -->
+<!-- </div> -->
 
-## 2021 Adventures
+<!-- ## 2021 Adventures -->
 
-<div class="tiles-container">
+<!-- <div class="tiles-container"> -->
   <div class="tile">
-    <h2>Three Weeks Through Norway</h2>
+    <h2>3 weeks Scandinavia - Galdhoppigen</h2>
     <p>
-      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
+      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland (2023)
     </p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9323049879" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
   <div class="tile">
-    <h2>Three Weeks Through Norway</h2>
+    <h2>3 weeks Scandinavia - Lofoten</h2>
     <p>
-      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
+      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland (2023)
     </p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9346909659" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
-  <div class="tile">
+  <!-- <div class="tile">
     <h2>Three Weeks Through Norway</h2>
     <p>
       Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
     </p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9303859549" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
-  </div>
+  </div> -->
 
-  <div class="tile">
+  <!-- <div class="tile">
     <h2>Three Weeks Through Norway</h2>
     <p>
       Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
@@ -152,17 +158,17 @@ nav_order: 6
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9310214478" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
-</div>
+</div> -->
 
-## 2019 Adventures
+<!-- ## 2019 Adventures -->
 
-<div class="tiles-container">
+<!-- <div class="tiles-container"> -->
   <div class="tile">
     <h2>3-Weeks US Roadtrip</h2>
     <p>
       We did a <a href="https://jannisborn.github.io/us-roadtrip/" target="_blank">3-weeks roadtrip</a> in the US, including 9 national parks.
     </p>
     <!-- Added Image -->
-    {% include figure.liquid loading="eager" path="assets/video/pennyme_screenshot_video.gif" title="Screenshot" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/us_roadtrip.JPG" title="Screenshot" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
