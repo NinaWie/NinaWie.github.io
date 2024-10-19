@@ -4,7 +4,7 @@ title: AI4LUS
 description: Detecting COVID-19 infections from LUS
 img: assets/img/projects/covid_us.png
 importance: 2
-category: work
+category: research
 giscus_comments: true
 ---
 

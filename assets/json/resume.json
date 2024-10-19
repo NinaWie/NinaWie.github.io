@@ -51,7 +51,7 @@
       "area": "Data Science",
       "studyType": "M.Sc",
       "startDate": "2018-09-01",
-      "endDate": "2020-09-01",
+      "endDate": "2020-09-01"
     }
   ],
   "awards": [
@@ -59,7 +59,7 @@
       "title": "Fritz-Kutter Award",
       "date": "2021",
       "awarder": "Kutter Fonds",
-      "url": "https://www.kutter-fonds.ethz.ch/en/contest/",
+      "url": "https://www.kutter-fonds.ethz.ch/en/contest/"
     }
   ]
-  }
+}

@@ -4,7 +4,7 @@ title: PennyMe
 description: An iOS app for collecting pennies
 img: assets/img/projects/PennyMe.jpg
 importance: 1
-category: work
+category: apps
 related_publications: true
 ---
 

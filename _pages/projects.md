@@ -5,7 +5,7 @@ permalink: /projects/
 description: Fun side projects that were started at hackathons or just from a productive form of procrastination in the evenings. 
 nav: true
 nav_order: 3
-display_categories: [side projects]
+display_categories: [apps, research]
 horizontal: false
 ---
 
