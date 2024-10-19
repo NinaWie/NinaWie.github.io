@@ -13,7 +13,7 @@ I'm co-developing an iOS app for collecting pressed pennies, these souvenir coin
 The app is available in the [app store](https://apps.apple.com/gb/app/pennylocator/id1635027001?platform=iphone) and all code is [open-sourced](https://github.com/jannisborn/PennyMe).
 
 
-![Alt Text](assets/video/pennyme_screenshot_video.gif)
+![Alt Text](../assets/video/pennyme_screenshot_video.gif)
 
 
-<img src="assets/video/pennyme_screenshot_video.gif" alt="Animated Chart" loading="lazy" />
+<img src="../assets/video/pennyme_screenshot_video.gif" alt="Animated Chart" loading="lazy" />
