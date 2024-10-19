@@ -20,15 +20,15 @@
       "position": "Part-time researcher",
       "url": "www.intel.de/",
       "startDate": "2024-04-01",
-      "endDate": "ongoing",
+      "endDate": "now",
       "summary": "Working on 3D generation with a great time of researchers."
     },
     {
       "name": "Chair for Geoinformation Engineering, ETH Zürich",
       "position": "PhD student",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2021-07-01",
+      "endDate": "now",
       "summary": ""
     }
   ],
@@ -52,6 +52,15 @@
       "studyType": "M.Sc",
       "startDate": "2018-09-01",
       "endDate": "2020-09-01"
+    },
+    {
+      "institution": "University Osnabrück",
+      "location": "Osnabrück, Germany",
+      "url": "www.uni-osnabrueck.de/",
+      "area": "Cognitive Science",
+      "studyType": "B.Sc",
+      "startDate": "2015-10-01",
+      "endDate": "2018-07-01"
     }
   ],
   "awards": [
