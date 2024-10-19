@@ -2,7 +2,7 @@
 layout: page
 title: PennyMe
 description: An iOS app for collecting pennies
-img: assets/img/projects/PennyMe.jpg
+img: assets/img/projects/PennyMe.jpeg
 importance: 1
 category: apps
 related_publications: true
@@ -12,14 +12,8 @@ I'm co-developing an iOS app for collecting pressed pennies, these souvenir coin
 
 The app is available in the [app store](https://apps.apple.com/gb/app/pennylocator/id1635027001?platform=iphone) and all code is [open-sourced](https://github.com/jannisborn/PennyMe).
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pennyme_screenshot_video.gif" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pennyme_screenshot_video.gif" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-</div>
-<div class="caption">
-    Test
-</div>
+
+![Alt Text](assets/video/pennyme_screenshot_video.gif)
+
+
+<img src="assets/video/pennyme_screenshot_video.gif" alt="Animated Chart" loading="lazy" />
