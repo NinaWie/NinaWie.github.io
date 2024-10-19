@@ -5,7 +5,7 @@ description: Detecting COVID-19 infections from LUS
 img: assets/img/projects/covid_us.png
 importance: 2
 category: research
-giscus_comments: true
+giscus_comments: false
 ---
 
 Early in the COVID pandemic, we wanted to help somehow and took part in a hackathon - this two day fun event turned into a four year project with a published [paper](https://www.mdpi.com/2076-3417/11/2/672) and a collaboration with a clinic in Maastricht, Netherlands. 
