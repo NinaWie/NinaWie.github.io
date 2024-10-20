@@ -3,7 +3,7 @@ layout: page
 title: Greentastic
 description: An iOS app for finding the most sustainable transport option
 img: assets/img/projects/greentastic.jpg
-importance: 1
+importance: 2
 category: apps
 related_publications: false
 ---
