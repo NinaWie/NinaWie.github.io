@@ -89,7 +89,6 @@ nav_order: 6
   }
 </style>
 
-### Trips with Strava tracks
 
 <div class="tiles-container">
   <div class="tile">
