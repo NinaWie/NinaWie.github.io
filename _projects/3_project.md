@@ -10,10 +10,14 @@ related_publications: false
 
 On a hackathon, we developed an app for comparing transport options with respect to their sustainability, duration, price etc.
 
-<!-- Greentastic is available in the [app store](https://apps.apple.com/us/app/greentastic/id1494062757) and all code is [open-sourced](https://github.com/jannisborn/greentastic_backend/tree/master). -->
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/greentastic.png" class="img-fluid rounded z-depth-1 w-80" %}
+<div class="row">
+    <div class="ccol-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/greentastic.png" title="Screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
+Resources: 
+* [Code backend](https://github.com/jannisborn/greentastic_backend/tree/master).
+* [Code frontend](https://github.com/jannisborn/greentastic_frontend_ios/tree/master).
+* [App (not continued)](https://www.appbrain.com/appstore/greentastic/ios-1494062757)
