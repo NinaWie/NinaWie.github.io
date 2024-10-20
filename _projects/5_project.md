@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hut Finder
+title: Alpine hut finder
 description: A web app for finding available mountain huts in the alps
 img: assets/img/projects/hutfinder.png
 importance: 3
