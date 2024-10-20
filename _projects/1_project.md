@@ -8,11 +8,11 @@ category: apps
 related_publications: true
 ---
 
-<img src="assets/video/pennyme_screenshot_video.gif" alt="PennyMe Screenshot Video" style="width: 33%;">
+<img src="../assets/video/pennyme_screenshot_video.gif" alt="PennyMe Screenshot Video" style="width: 33%;">
 
 
 I'm developing an iOS app for collecting pressed pennies, these souvenir coins you find in many places worldwide. This project is really close to my heart, since it was amazing to see how this small side project turned into an app with a significant user base that actually contributes with images, comments, updates - thanks to this amazing community for that! 
 
 The app is available in the [app store](https://apps.apple.com/gb/app/pennylocator/id1635027001?platform=iphone) and all code is [open-sourced](https://github.com/jannisborn/PennyMe).
 
-![PennyMe Screenshot Video](assets/video/pennyme_screenshot_video.gif){: style="width: 33%;"}
+![PennyMe Screenshot Video](../assets/video/pennyme_screenshot_video.gif){: style="width: 33%;"}
