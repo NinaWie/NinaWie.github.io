@@ -81,7 +81,7 @@ nav_order: 6
 
 <div class="tiles-container">
   <div class="tile">
-    <h2>One Week Biking in France</h2>
+    <h2>One Week Cycling in France</h2>
     <p>From Geneva to Andorra (2024)</p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12421702771" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
@@ -93,24 +93,27 @@ nav_order: 6
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12500855830" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
-  <!-- <div class="tile">
-    <h2>One Week Biking Through France</h2>
-    <p>Followed by one week hiking through the Pyrenees.</p>
-    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12426409737" data-style="standard"></div>
-    <script src="https://strava-embeds.com/embed.js"></script>
-  </div>
-
-  <!-- <div class="tile">
-    <h2>One Week Biking Through France</h2>
-    <p>Followed by one week hiking through the Pyrenees.</p>
-    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12453745686" data-style="standard"></div>
-    <script src="https://strava-embeds.com/embed.js"></script>
-  </div> -->
-<!-- </div> -->
 
 <!-- ## 2021 Adventures -->
 
 <!-- <div class="tiles-container"> -->
+  <div class="tile">
+    <h2>Hike and fly</h2>
+    <p>
+      After getting the paragliding license, I had some beautiful Hike & Fly experiences!
+    </p>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11171987616" data-style="standard"></div>
+    <script src="https://strava-embeds.com/embed.js"></script>
+  </div>
+
+  <div class="tile">
+    <h2>Running</h2>
+    <p>
+      Finally took part in a race and improve my time for half-marathon!  
+    </p>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12637074023" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+  </div>
+
   <div class="tile">
     <h2>3 weeks Scandinavia - Galdhoppigen</h2>
     <p>
@@ -129,26 +132,23 @@ nav_order: 6
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
-  <!-- <div class="tile">
-    <h2>Three Weeks Through Norway</h2>
-    <p>
-      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
-    </p>
-    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9303859549" data-style="standard"></div>
-    <script src="https://strava-embeds.com/embed.js"></script>
-  </div> -->
-
-  <!-- <div class="tile">
-    <h2>Three Weeks Through Norway</h2>
-    <p>
-      Traveled by interrail, car, ship, and bus, from Zurich through Norway to the North Cape and back through Finland.
-    </p>
-    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9310214478" data-style="standard"></div>
-    <script src="https://strava-embeds.com/embed.js"></script>
-  </div>
 </div> -->
+  <div class="tile">
+    <h2>Cylcing in Switzerland</h2>
+    <p>
+      I like to climb mountain passes in Switzerland, here for example a tour over the famous Gotthard pass.
+    </p>
+  <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7441558065" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+</div>
 
-<!-- ## 2019 Adventures -->
+</div> -->
+  <div class="tile">
+    <h2>Hiking in Switzerland</h2>
+    <p>
+      Probably one of the most stunning hikes that exist, and at the same time my longest
+    </p>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7601623584" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+  </div>
 
 <!-- <div class="tiles-container"> -->
   <div class="tile">
