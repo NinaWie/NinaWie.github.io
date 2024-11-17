@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hobbies/
-title: hobbies
+title: Hobbies
 description: I love to do outdoor sports and to travel. Here are some pointers to my favourite trips
 nav: true
 nav_order: 6

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Fun side projects that were started at hackathons or just from a productive form of procrastination in the evenings. 
 nav: true
