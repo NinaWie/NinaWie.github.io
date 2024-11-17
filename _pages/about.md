@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: MIE Lab (ETH Zürich) & Intel
+subtitle: ETH Zürich & Intel
 
 profile:
   align: right

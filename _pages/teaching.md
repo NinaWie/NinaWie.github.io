@@ -105,7 +105,7 @@ nav_order: 6
     <p>Followed by one week hiking through the Pyrenees.</p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12453745686" data-style="standard"></div>
     <script src="https://strava-embeds.com/embed.js"></script>
-  </div> --> -->
+  </div> -->
 <!-- </div> -->
 
 <!-- ## 2021 Adventures -->
