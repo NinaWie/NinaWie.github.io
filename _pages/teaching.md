@@ -132,16 +132,14 @@ nav_order: 6
     <script src="https://strava-embeds.com/embed.js"></script>
   </div>
 
-</div> -->
   <div class="tile">
     <h2>Cylcing in Switzerland</h2>
     <p>
       I like to climb mountain passes in Switzerland, here for example a tour over the famous Gotthard pass.
     </p>
-  <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7441558065" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
-</div>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7441558065" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+  </div> 
 
-</div> -->
   <div class="tile">
     <h2>Hiking in Switzerland</h2>
     <p>
