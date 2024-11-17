@@ -13,7 +13,7 @@ nav_order: 6
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: flex-start; /* Align tiles to the left */
+    justify-content: space-between; /* Distribute tiles evenly */
     margin-top: 20px;
   }
 
@@ -23,7 +23,7 @@ nav_order: 6
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
-    width: 300px; /* Maintained width */
+    width: calc(33.33% - 20px); /* Adjust width to 1/3 minus the gap */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
     display: flex;
@@ -64,27 +64,16 @@ nav_order: 6
   }
 
   /* Responsive adjustments */
-  @media (max-width: 1600px) {
-    .tile {
-      width: 300px; /* Keep tile width consistent */
-    }
-  }
 
   @media (max-width: 1200px) {
     .tile {
-      width: 300px; /* Maintain width to allow more tiles per row */
-    }
-  }
-
-  @media (max-width: 992px) {
-    .tile {
-      width: 300px; /* Maintain width for consistency */
+      width: calc(50% - 20px); /* Two tiles per row */
     }
   }
 
   @media (max-width: 600px) {
     .tile {
-      width: 100%; /* Single tile per row on small screens */
+      width: 100%; /* One tile per row */
     }
   }
 </style>
