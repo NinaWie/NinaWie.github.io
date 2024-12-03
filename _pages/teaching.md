@@ -109,7 +109,7 @@ nav_order: 6
   <div class="tile">
     <h2>Running</h2>
     <p>
-      Finally took part in a race and improve my time for half-marathon!  
+      Finally took part in a race and updated my PR for half-marathon!  
     </p>
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12637074023" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
   </div>
