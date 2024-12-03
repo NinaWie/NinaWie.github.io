@@ -18,4 +18,4 @@ I am a researcher specializing in GeoAI and Computer Vision. I have a background
 
 In my free time, I love to do [sports](/hobbies/), especially to go to the mountains for hiking, skiing, cycling, or paragliding. When the weather is bad, I work on some fun [side projects](/projects).
 
-For a full list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=qC1JKzoAAAAJ&hl=en). Feel free to reach out to me at nwiedemann[at]ethz[dot]ch
+For a full list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=qC1JKzoAAAAJ&hl=en). Feel free to reach out to me at nwiedemann[at]ethz[dot]ch.
